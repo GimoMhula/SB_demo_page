@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Sun, 05 Jun 2022 19:15:34 GMT
+Content-Type: image/jpeg
+Content-Length: 200188
+Connection: keep-alive
+x-xss-protection: 1; mode=block
+Referrer-Policy: same-origin
+Permissions-Policy: fullscreen=(self), geolocation=*, camera=()
+X-Content-Type-Options: nosniff
+Last-Modified: Fri, 30 Apr 2021 03:34:45 GMT
+ETag: "30dfc-5c1284b049f40"
+Cache-Control: public, max-age=315360000
+Expires: Wed, 02 Jun 2032 19:15:34 GMT
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31
